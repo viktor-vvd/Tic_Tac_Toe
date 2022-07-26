@@ -375,8 +375,6 @@ echo "<script>
 <head>
 </head>
 <body>
-<form action="dz.php">
-    <input type="submit">
-</form>
+
 </body>
 </html>
